@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "64160e0bc71b2bd06a95dd16"
+  },
+  "equipo1": "maracaibo",
+  "equipo2": "los cachas",
+  "fecha": "2023-03-18"
+}]

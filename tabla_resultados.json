@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "64161233c71b2bd06a95dd1d"
+  },
+  "partido": "64160e0bc71b2bd06a95dd16",
+  "puntos_equipo1_partido": "1",
+  "puntos_equipo2_partido": "6",
+  "ganador": "maracaibo",
+  "puntos_ganador": 3
+}]

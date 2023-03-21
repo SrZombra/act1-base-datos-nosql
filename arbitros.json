@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6415410dd5f19e207d20445f"
+  },
+  "nombre": "eduardo",
+  "apellido": "rodriguez",
+  "edad": 50,
+  "indentificacion": 789456
+}]

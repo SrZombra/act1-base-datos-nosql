@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "64160d60c71b2bd06a95dd13"
+  },
+  "nombre": "maracaibo",
+  "total_partidos_jugados": "6",
+  "n_jugadores": "6"
+}]
